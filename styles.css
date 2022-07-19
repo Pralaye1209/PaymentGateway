@@ -19,7 +19,7 @@ a{
     padding: 10px;
 }
 #main{
-    background-image: url(/children-banner.jpg);
+    background-image: url(children-banner.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
